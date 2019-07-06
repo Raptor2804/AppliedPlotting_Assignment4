@@ -1,1 +1,2 @@
-# AppliedPlotting_Assignment4
+# Applied Plotting Assignment 4
+This is Assignment 4 of the University of Michigan Applied Plotting, Charting & Data Representation in Python course. In this assignment, we are given a region and asked to find at least two data sets to use as the basis for a figure. The data relate to sports in the select region. I was assigned the Toronto, Ontario, Canada region and have decided to explore data about the Toronto Football Club for the figure.
