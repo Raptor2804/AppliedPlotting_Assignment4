@@ -1,0 +1,14 @@
+GP: Games Played, GS: Games Started, G: Goals, MIN: Minutes Played, 
+A: Assists, SHT: Shots, SOG: Shots on Goal, FC: Fouls Committed, 
+FS: Fouls Suffered, Y: Yellow Cards, R: Red Cards, GF: Goals For, 
+GA: Goals Against, SO: Shutouts, SV: Saves, CK: Corner Kicks, 
+PKA: Penalty Kick Attempts, PKG: Penalty Kick Goals, 
+PKS: Penalty Kick Saves, OFF: Offsides
+
+Links:
+
+2019 data
+https://www.mlssoccer.com/stats/season?franchise=2077&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-AixtJ4tlaxvq2K70NS2R_hYeuWm_qMl-2wE_TNYsSLo&form_id=mp7_stats_hub_build_filter_form
+
+2018 data
+https://www.mlssoccer.com/stats/season?franchise=2077&year=2018&season_type=REG&group=goals&op=Search&form_build_id=form-FpGx-GvcExvZfA13xg30JK9J-zClrbts_NLVPC3jnZM&form_id=mp7_stats_hub_build_filter_form
